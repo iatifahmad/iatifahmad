@@ -1,15 +1,13 @@
-<h1 align='center'> Hi there 👋, I'm Stefany  👩‍💻 </h1>
+<h1 align='center'> Hi there 👋, I'm Atif Ahmad   </h1>
 
 <p align='center'>
-  I live in Recife, Brazil
+  I am a developer and Security Researcher
 </p>
 
-<p align='center'>
-  <a href="https://twitter.com/stefany_vasc"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/stefanyvasconcelos/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:stefany.vasc.sa@gmail.com?subject=Olá%20Stefany"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-
-</p>
+ [![Website](https://img.shields.io/badge/Website-3776AB?style=for-the-badge)](atifahmad.pythonanywhere.com)
+ [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atif-ahmad-031850238/)
+ [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://www.instagram.com/atifahmad.it](https://www.instagram.com/atifahmad.it/))
+ [![Email](https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:atifahmad13200@gmail.com)
 ### About Me
 I'm a programmer, focusing on red teaming, penetration testing, and bug bounty hunting. I'm passionate about cybersecurity and web development.
 
