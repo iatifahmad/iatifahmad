@@ -1,4 +1,4 @@
-![header](https://github.com/iatifahmad/iatifahmad/blob/main/Atif%20Ahmad.png)
+![header](https://github.com/iatifahmad/iatifahmad/blob/main/image.png)
 
 # Hi there 👋, I'm Atif Ahmad
 ## Aspiring Cybersecurity Expert | Python Developer
