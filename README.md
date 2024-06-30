@@ -1,4 +1,3 @@
-https://github.com/iatifahmad/iatifahmad/blob/main/Atif%20Ahmad.png
 ![header](https://github.com/iatifahmad/iatifahmad/blob/main/Atif%20Ahmad.png)
 
 # Hi there 👋, I'm Atif Ahmad
